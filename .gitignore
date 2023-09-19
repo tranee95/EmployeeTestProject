@@ -1,0 +1,11 @@
+﻿src/Employees.Common/obj
+src/.idea
+src/Employees.Core/bin
+src/Employees.Core/obj
+src/Employees.Data/bin
+src/Employees.Data/obj
+src/Employees.Service/bin
+src/Employees.Service/obj
+src/Employees.Common/bin
+src/Employees.WebHost/bin
+src/Employees.WebHost/obj
